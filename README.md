@@ -1,2 +1,10 @@
-# CS-330
-CS-330 Computer Graphics
+## CS-330 Computer Graphics
+
+### How do I approach designing software?
+When working with OpenGL, my initial step in designing both software and graphics is to examine the assignment's requirements and rubric. I then analyze the provided code, run the software, and assess the output. Based on this, I iteratively make necessary modifications to meet all the assignment's criteria. A crucial competency I enhanced during this process was my research ability, particularly when troubleshooting errors. I adopted the agile methodology, making incremental progress on the project and refining it before moving to subsequent requirements. A valuable tactic I incorporated, and plan to use in future endeavors, was code reusability. By crafting functions for repeated use, I not only reduced code length but also expedited the debugging process.
+
+### How do I approach developing programs?
+My strategy for program development involved analyzing similar projects, coupled with research through YouTube videos and OpenGL blogs by various developers. The iterative nature of my approach meant saving multiple versions of a project before finalizing it. Being relatively new to OpenGL, I frequently experimented with new features, from textures and colors to diverse shapes, to achieve the desired outcomes. At the outset of tutorials, I ran them to gauge their functionality, making minor tweaks. However, as I progressed, I honed the practice of recycling and reapplying code from previous milestones, significantly minimizing bugs in my projects.
+
+### How can computer science help me in reaching my goals?
+Before enrolling in CS330, I had limited understanding of computer graphics and a rudimentary grasp of C++. As the term unfolded and I tackled various milestones, I witnessed a marked improvement in my C++ coding proficiency and debugging skills. This progression is monumental for me. Aspiring to be a data scientist—a role demanding robust coding capabilities—I now feel better equipped. I am confident that the debugging skills honed in this course will be invaluable in my subsequent computer science classes and in my journey to becoming a proficient data scientist.
